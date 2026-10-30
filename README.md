@@ -4,3 +4,9 @@
 
 ## Team
 
+### Jiaxiao Mu
+
+### Kampe Rushoka
+
+### Fernando Rocha Rosario
+
