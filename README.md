@@ -7,15 +7,20 @@
 
 ## Team
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/695f30dc-736e-42a6-8854-c3fd57624274" alt="Jiaxiao Mu" width="220" />
-  <img src="https://github.com/user-attachments/assets/11f4bd7f-3332-4d18-9d54-176f0769791e" alt="Kampe Rushoka" width="220" />
-  <img src="https://github.com/user-attachments/assets/db4c5bea-6763-4b81-b19b-069c8f4a4f78" alt="Fernando Rocha Rosario" width="220" />
-</p>
-
-<p align="center">
-  <b>Jiaxiao Mu</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Kampe Rushoka</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Fernando Rocha Rosario</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="URL_FOTO_1" width="220">
+      <br><b>Jiaxiao Mu</b>
+    </td>
+    <td align="center">
+      <img src="URL_FOTO_2" width="220">
+      <br><b>Kampe Rushoka</b>
+    </td>
+    <td align="center">
+      <img src="URL_FOTO_3" width="220">
+      <br><b>Fernando Rocha Rosario</b>
+    </td>
+  </tr>
+</table>
 
