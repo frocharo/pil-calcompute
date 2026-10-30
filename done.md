@@ -1,3 +1,3 @@
-| To Do | In Progress | Done |
+| [To Do](https://frocharo.github.io/pil-calcompute/) | In Progress | Done |
 
 # Done
