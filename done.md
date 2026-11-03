@@ -2,5 +2,5 @@
 
 # Done
 
-* Establish communication with the partner and have access to their drive.
+* Establish communication with the partner and have access to his drive.
 
