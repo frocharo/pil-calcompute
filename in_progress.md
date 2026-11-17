@@ -3,8 +3,6 @@
 # In Progress 
 
 Now we are in Week 4 and we are doing: 
-
-
 * Conducting interviews 
 * Updating Project Overview, User Research and Personas
 * Sprint #4
