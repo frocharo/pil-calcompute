@@ -5,6 +5,7 @@
 * Analysis of documents on partner's drive.
 * Literature review
 * Establish frequent communication with the partner, having access to his drive and meet his teamwork.
+* First version of Personas. 
 * Two interviews so far.
 * Feedback of the CalCompute's survey.
 
