@@ -3,10 +3,9 @@
 # To Do
 
 Among us:
-* Contact potential interviewees.
-* Do interviews.
-* Analyze interviews data
+* Contact more interviewees.
+* Report the interviews findings.
 
 With the partner:
 * Have a meeting this week
-* Make an agreement about the final deliverable
+* Send survey feedback
