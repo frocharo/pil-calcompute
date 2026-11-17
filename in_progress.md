@@ -2,10 +2,10 @@
 
 # In Progress 
 
-Now we are in Week 3 and we are doing: 
+Now we are in Week 4 and we are doing: 
 
-* Project overview
-* User research plan.
-* Analysis of documents on partner's drive.
-* Literature review
+
+* Conducting interviews 
+* Updating Project Overview, User Research and Personas
+* Sprint #4
   
