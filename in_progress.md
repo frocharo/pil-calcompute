@@ -2,8 +2,7 @@
 
 # In Progress 
 
-Now we are in Week 4 and we are doing: 
-* Conducting interviews 
-* Updating Project Overview, User Research and Personas
-* Sprint #4
+Now we are in Week 5 and we are doing: 
+* Updating and integrating the Equity Matrix
+* Sprint #5
   
