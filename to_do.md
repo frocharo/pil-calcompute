@@ -3,9 +3,7 @@
 # To Do
 
 Among us:
-* Contact more interviewees.
-* Report the interviews findings.
+* Prepare the presentation for next class.
 
 With the partner:
-* Have a meeting this week
-* Send survey feedback
+* Present the Equity Matrix prototype this current week
